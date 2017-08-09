@@ -114,8 +114,9 @@ inject
 chunks来设置生成的html引用的哪些js
 
 **参考链接**
-[https://segmentfault.com/a/1190000007294861](https://segmentfault.com/a/1190000007294861)
-[http://www.cnblogs.com/haogj/p/5160821.html](http://www.cnblogs.com/haogj/p/5160821.html)
-[http://www.cnblogs.com/wonyun/p/6030090.html](http://www.cnblogs.com/wonyun/p/6030090.html)
-[http://react-china.org/t/webpack-output-filename-output-chunkfilename/2256/2](http://react-china.org/t/webpack-output-filename-output-chunkfilename/2256/2)
-[https://segmentfault.com/a/1190000008590102](https://segmentfault.com/a/1190000008590102)
+
+* [https://segmentfault.com/a/1190000007294861](https://segmentfault.com/a/1190000007294861) 
+* [http://www.cnblogs.com/haogj/p/5160821.html](http://www.cnblogs.com/haogj/p/5160821.html) 
+* [http://www.cnblogs.com/wonyun/p/6030090.html](http://www.cnblogs.com/wonyun/p/6030090.html) 
+* [http://react-china.org/t/webpack-output-filename-output-chunkfilename/2256/2](http://react-china.org/t/webpack-output-filename-output-chunkfilename/2256/2) 
+* [https://segmentfault.com/a/1190000008590102](https://segmentfault.com/a/1190000008590102)
